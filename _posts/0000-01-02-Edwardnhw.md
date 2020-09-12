@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Say No to dry chicken!
 Use the left arrow to go back!
